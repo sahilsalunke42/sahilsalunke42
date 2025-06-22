@@ -3,9 +3,7 @@
 
 - My Portfolio [www.salunkesahil.me](www.salunkesahil.me)
 
-- LinkedIn [https://www.linkedin.com/in/sahil-salunke-163284290/](https://www.linkedin.com/in/sahil-salunke-163284290/)
-
-- Ask me about **Pyhton, HTML, CSS, Javascript, Reactjs, Nodejs, Expressjs, MOngo[**
+- Ask me about **Pyhton, HTML, CSS, Javascript, Reactjs, Nodejs, Expressjs, MongoDB**
 
 - How to reach me **sahilxnaruto42@gmail.com**
 
